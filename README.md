@@ -1,1 +1,5 @@
 # Netflix-Data-Analysis-And-Recommendation-System
+
+Netflix has evolved to become one amongst the foremost common immoderate content platform suppliers and production corporations within the world from a humble DVD-by-mail service. it's one amongst the primary corporations to ascertain the potential for associate immoderate content platform and commenced the transition in early 2007. Since the transition, the annual revenue has fully grown exponentially from one.36 billion to around fifteen.8 billion in only 10 years. it's conjointly significantly multiplied its subscriber base from twenty two million in 2011 to a hundred and fifty million in 2019.
+
+The dataset consists of all the tv shows and flicks obtainable on Netflix until 2019. The dataset is collected from Flexible, that could be a third-party Netflix computer programme. They discharged a report that shows the quantity of TV shows on Netflix has tripled, and therefore the movies have been small by 2000 in variety since 2010. This provides an incentive for North American nations to explore all different valuable insights into the info.
